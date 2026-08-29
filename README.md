@@ -1,1 +1,1 @@
-## Note source of dataset is unconfirmed, could be artifical dont draw conclusion from it. *The main purpose is to showcase MLOPS with ETL pipelines for this project. Learning from Krish Naik*
+## Note source of dataset is unconfirmed, could be artifical dont draw conclusion from it. *The main purpose is to showcase MLOPS with ETL pipelines for this project.*
